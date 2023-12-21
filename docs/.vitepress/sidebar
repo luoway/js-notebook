@@ -1,1 +1,1 @@
-export default [{"text":"JS实现十种排序算法","link":"/1"},{"text":"koa","link":"/3"},{"text":"Vue.js 2.x 知识点","link":"/4"},{"text":"Vue 3 相比 Vue 2 有哪些优化","link":"/5"}]
+export default [{"text":"JS实现十种排序算法","link":"/1"},{"text":"koa","link":"/3"},{"text":"Vue.js 2.x 知识点","link":"/4"},{"text":"Vue 3 相比 Vue 2 有哪些优化","link":"/5"},{"text":"怎么实现 JS 沙箱","link":"/6"}]
